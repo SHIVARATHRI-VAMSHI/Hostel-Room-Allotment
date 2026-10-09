@@ -20,15 +20,33 @@ The **Hostel Room Allotment System** is a Java-based console application develop
 ## 📂 Project Structure
 ```text
 Hostel-Room-Allotment/
+│
 ├── src/
 │   └── com/
 │       ├── entity/
+│       │   ├── Admin.java
+│       │   ├── Allotment.java
+│       │   ├── AllotmentStatus.java
+│       │   ├── Room.java
+│       │   ├── Student.java
+│       │   └── User.java
+│       │
 │       ├── main/
+│       │   └── Main.java
+│       │
 │       ├── service/
+│       │   └── HostelService.java
+│       │
 │       └── util/
+│           └── FileManager.java
+│
 ├── data/
+│   └── (application data files)
+│
 ├── README.md
-└── .gitignore
+├── .gitignore
+├── .classpath
+└── .project
 ```
 
 ## ⚙️ Features
