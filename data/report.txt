@@ -1,0 +1,6 @@
+HOSTEL OCCUPANCY REPORT
+Rooms: 1
+Total beds: 4
+Occupied beds: 3
+Free beds: 1
+Students with an active allotment: 3
